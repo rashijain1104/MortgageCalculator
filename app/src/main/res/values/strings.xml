@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW1</string>
+
+    <string name="hello_world">Mortgage Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="year15">15 Years</string>
+    <string name="year30">30 Years</string>
+    <string name="year7">7 Years</string>
+    <string name="loanterm">Loan Term</string>
+    <string name="interestrate">Interest Rate</string>
+    <string name="amountborrowed">Amount Borrowed</string>
+    <string name="checkbox">Include Tax and Insurance</string>
+    <string name="calculate">Calculate</string>
+
+</resources>

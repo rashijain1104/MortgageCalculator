@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="hello_world">Calculadora de hipoteca</string>
+
+    <string name="year15">15 años</string>
+    <string name="year30">30 años</string>
+    <string name="year7">7 años</string>
+    <string name="loanterm">Plazo del préstamo</string>
+    <string name="interestrate">Tasa de interés</string>
+    <string name="amountborrowed">cantidad prestada</string>
+    <string name="checkbox">Incluir Impuestos y Seguros</string>
+    <string name="calculate">Calcular</string>
+
+</resources>
